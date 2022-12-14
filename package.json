@@ -1,0 +1,14 @@
+{
+  "name": "inoculate20065",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "📚 Tuition 📚 Malaysia Best 1 to 1 Home Tuition",
+  "keywords": [
+    "📚 Tuition 📚 Malaysia Best 1 to 1 Home Tuition"
+  ],
+  "repository": "https://github.com/teducationhelper/inoculate20065",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
